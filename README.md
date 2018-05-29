@@ -3,4 +3,5 @@ This app scrapes article from the New York Times website and stores them in a Mo
 
 To run it, download this repository. In the terminal run "npm init" and then "npm install."
 
-A full working app can also be found at...
+A full working app can also be found at https://young-wildwood-60137.herokuapp.com/
+
